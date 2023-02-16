@@ -1,0 +1,5 @@
+﻿  main_blinky.c
+C:\Users\Tacie\Downloads\FreeRTOSv202212.00\FreeRTOSv202212.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(120,13): warning C4022: 'xTimerCreate': incompatibilidade de ponteiro para parâmetro real 4
+C:\Users\Tacie\Downloads\FreeRTOSv202212.00\FreeRTOSv202212.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(127,13): warning C4022: 'xTimerCreate': incompatibilidade de ponteiro para parâmetro real 4
+C:\Users\Tacie\Downloads\FreeRTOSv202212.00\FreeRTOSv202212.00\FreeRTOS\Demo\WIN32-MSVC\main_blinky.c(94,18): warning C4189: 'xTimerPeriod': variável local é inicializada mas não referenciada
+  WIN32.vcxproj -> C:\Users\Tacie\Downloads\FreeRTOSv202212.00\FreeRTOSv202212.00\FreeRTOS\Demo\WIN32-MSVC\Debug\RTOSDemo.exe
